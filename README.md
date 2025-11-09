@@ -1,5 +1,5 @@
 # LLM-Powered-Data-Analyst
-Demo: 
+Demo: https://drive.google.com/drive/u/0/folders/1JQ8nS8rQEtaFO6JQ2iFJ5NYfuHBFH6ba
 <div style="text-align: center; margin: 20px 0;">
     <img src="./media/hero3.png" alt="Bag of words" style="width: 100%; max-width: 1200px;">
 </div>
