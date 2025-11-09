@@ -14,4 +14,4 @@
 
 *  **Transparency, trust & deployment**
 
-   Track every AI decision, trace, and feedback. Analyze quality and usage in the console. Deploy fully in your VPC with Docker/Compose, VMs, or Kubernetes. Enterprise-ready with RBAC, SSO (OIDC), audit logs, SMTP.
+   Track every AI decision, trace, and feedback. Analyze quality and usage in the console. Deploy fully in your VPC with Docker/Compose, VMs, or Kubernetes.
